@@ -6,9 +6,9 @@ The full material can be found in DUO.
 
 Handout for Finite mixture models can be found here:  
 
-+ <Handouts/Finite_Mixture_Model_and_Expectation_Maximization_Algorithm.pdf>  
++ <https://github.com/georgios-stats/Statistical_Methods_III_2020/blob/main/Handouts/Finite_Mixture_Model_and_Expectation_Maximization_Algorithm.pdf>  
 
-PCA code with examples, can be found here:  
+PCA code implemented in images, can be found here:  
 
-+ <PCA_examples_code/image_pca>  
++ <https://github.com/georgios-stats/Statistical_Methods_III_2020/tree/main/PCA_examples_code/image_pca>  
 
